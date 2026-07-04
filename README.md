@@ -1,2 +1,2 @@
-# coffee-vgg16
-Coffee Bean Classification using VGG16 and Flask
+# Coffee VGG16
+Project skeleton. Replace train_model.py with the version from chat or extend.
